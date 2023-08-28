@@ -1,0 +1,48 @@
+body {
+    width: 1600px;
+    font-family: Roboto;
+}
+
+.text {
+    color: #212121;
+    font-family: Roboto;
+    text-align: center;
+    font-size: 36px;
+}
+
+.main-img {
+    margin-left: 215px
+
+}
+
+.img-1,
+.img-2 {
+    margin-right: 30px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    letter-spacing: 0.42px;
+    font-size: 14px;
+    background: rgba(47, 48, 58, 0.80);
+    max-width: 370px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    text-transform: uppercase;
+}
+
+.text-1 {
+    position: relative;
+    bottom: 90px; left: 215px;
+}
+
+.text-2 {
+    position: relative;
+    bottom: 175px; left: 619px;
+}
+
+.text-3 {
+    position: relative;
+    bottom: 259px; left: 1023px;
+}
